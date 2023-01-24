@@ -1,5 +1,5 @@
 123
-asddasd
+asddasd - modificando no branch para merge com master modificado na linha 5
 teste1
 linha4 com mudanca - esta mudanca foi feita aqui no vscode
 nova linha - nova mudanca feita no VSCODE e no GITHUB - essa linha agora foi modificada pelo segundo merge
