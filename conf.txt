@@ -6,3 +6,4 @@ nova linha - nova mudanca feita no VSCODE e no GITHUB
 unica nova linha e unica modificacao feita no novo branch test
 adicionando um feature aqui nessa linha
 e corrigindo um bug com essa linha
+Fiz esse novo new feature.
